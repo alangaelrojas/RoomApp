@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Room App</string>
+    <string name="boton_agregar_profesor">Agregar profesor</string>
+    <string name="guardar_profesor">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nombre_profesor">Nombre</string>
+    <string name="email_profesor">Correo electrónico</string>
+    <string name="status_profesor">Estatus del profesor</string>
+    <string name="default_swt_isActiveProfesor">Inactivo</string>
+    <string name="agregar_profesor_label">Nuevo Profesor</string>
+    <string name="area_profesor">Área del profesor</string>
+    <string name="actualizar_profesor">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
